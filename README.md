@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalen</h1>
 <h3 align="center">A full-stack web developer from San Francisco, CA</h3>
 
-- 🔭 I’m currently working on **My Pets App**
+- 🔭 I’m currently working on **My Pet App**
 
 - 👨‍💻 All of my projects are available at [https://kalen.kipod.us/](https://kalen.kipod.us/)
 
