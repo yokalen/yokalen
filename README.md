@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Pet App** [https://github.com/yokalen/my-pet-app](https://github.com/yokalen/my-pet-app)
 
-- 👨‍💻 All of my projects are available at [https://kalen.kipod.us/](https://kalen.kipod.us/)
+- 👨‍💻 See my portfolio of recent projects at [https://kalen.kipod.us/](https://kalen.kipod.us/)
 
 - 📫 How to reach me **yokalen@gmail.com**
 
